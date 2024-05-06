@@ -1,1 +1,1 @@
-Go here -> https://warranty-validation.onrender.com/
+https://warranty-validation.onrender.com/
